@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.luminartstudio_matrix" 
+       name="[COLOR orange][B]LUMINART MATRIX-VIP[/B][/COLOR]" 
+	   version="0.0.1" 
+	   provider-name="[COLOR white][B]JOHN DOE[/B][/COLOR]"> 
+<requires>
+    <import addon="xbmc.python" version="3.0.0"/>
+    <import addon="script.module.requests"/>
+    <import addon="script.module.simplejson"/>
+	<import addon="script.module.kodi-six" />
+</requires>  
+<extension point="xbmc.python.pluginsource" library="default.py">
+	<provides>video</provides>
+</extension>   
+<extension point="xbmc.addon.metadata">
+	 <summary lang="en">SUA CONTRIBUIÇÃO INCENTIVA NOSSO TRABALHO</summary>
+    <description lang="en">ACESSO EXCLUSIVO DE CONTRIBUINTE   
+AGRADECEMOS SUA CONTRIBUIÇÃO.
+NOSSOS CONTATOS : 
+luminartstudio4@gmail.com  OU  WhatsApp (48) 99194-1409 </description>
+    <disclaimer lang="en">O LUMINART STUDIO É APENAS UM INDEXADOR DE LINKS COLETADOS NA WEB E ORGANIZADOS PARA USO RECREATIVO,SEM FINS COMERCIAIS 
+NÃO ARMAZENAMOS ARQUIVOS, OU SOMOS RESPONSÁVEIS PELOS LINKS UTILIZADOS.</disclaimer>
+	<platform>all</platform>
+	<assets>
+       <icon>icon.png</icon>
+       <fanart>fanart.jpg</fanart>
+<screenshot>resources/screenshots/home.jpg</screenshot>
+<screenshot>resources/screenshots/movies.jpg</screenshot>
+<screenshot>resources/screenshots/series.jpg</screenshot>
+</assets>
+	<news>VERSÃO - 001-15-05-22</news>
+</extension>
+</addon>
