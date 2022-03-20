@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
-<addon id="repository.repoluminart-vip" name="LUMINART-VIP" version="0.0.2" provider-name="luminart506">
+<addon id="repository.repoluminart-vip" name="LUMINART-VIP" version="0.0.3" provider-name="luminart506">
     <extension point="xbmc.addon.repository" name="repository.repoluminart-vip">
         <dir>
             <info compressed="false">https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml</info>
@@ -10,13 +10,13 @@
         <dir minversion="17.0.0" maxversion="18.9.0">
 			<info compressed="false">https://raw.githubusercontent.com/luminart506/repoluminart-vip/main/krypton/addons.xml</info>
 			<checksum>https://raw.githubusercontent.com/luminart506/repoluminart-vip/main/krypton/addons.xml.md5</checksum>
-			<datadir zip="true">https://raw.githubusercontent.com/zoreu/repoluminart-vip/main/krypton/</datadir>
+			<datadir zip="true">https://raw.githubusercontent.com/luminart506/repoluminart-vip/main/krypton/</datadir>
 			<hashes>false</hashes>
         </dir>
   	    <dir minversion="18.9.1">
 			<info compressed="false">https://raw.githubusercontent.com/luminart506/repoluminart-vip/main/matrix/addons.xml</info>
 			<checksum>https://raw.githubusercontent.com/luminart506/repoluminart-vip/main/matrix/addons.xml.md5</checksum>
-			<datadir zip="true">https://raw.githubusercontent.com/zoreu/repoluminart-vip/main/matrix/</datadir>
+			<datadir zip="true">https://raw.githubusercontent.com/luminart506/repoluminart-vip/main/matrix/</datadir>
 			<hashes>false</hashes>
         </dir>
     </extension>
