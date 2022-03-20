@@ -1,4 +1,4 @@
-# <a href="repository.repoluminart-vip.zip">DOWNLOAD DO REPOSITÓRIO</a>
+# <a href="repository.repoluminart-vip-0.0.3.zip">DOWNLOAD DO REPOSITÓRIO</a>
 
 Instruções para a adição no gestor:
 
@@ -9,7 +9,7 @@ Instruções para a adição no gestor:
     <li>Clicar em "Adicionar fonte"</li>
     <li>O endereço para a fonte é <code>https://tinyurl.com/luminart-vip</code> (Dar o nome de "luminart-vip").</li>
     <li>Ir para "Addons"</li>
-    <li>Em Addons, instalar de um ficheiro zip. Quando perguntar pela localização, selecionar "luminart-vip", e instalar <a href="repository.repoluminart-vip.zip">repository.repoluminart-vip.zip</a>.</li>
+    <li>Em Addons, instalar de um ficheiro zip. Quando perguntar pela localização, selecionar "luminart-vip", e instalar <a href="repository.repoluminart-vip-0.0.3.zip">repository.repoluminart-vip-0.0.3.zip</a>.</li>
     -
     <li>Repositório Instalado!</li>
     
